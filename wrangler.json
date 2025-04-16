@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "visit-counter",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "dfdc95af-93f0-4d60-8004-22afa64b7b27",
+      "database_name": "D1 Database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
